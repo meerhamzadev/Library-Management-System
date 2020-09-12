@@ -1,0 +1,1 @@
+It's a Library Management System build in visual C++ and also has a user interface build using Windows Forms, enrich of features provides a good user experience.It divides into two sections: Admin Section and Subscriber Section and gives feature to add items borrow items and many more.
