@@ -1,0 +1,92 @@
+  OOP2SemestersProject.AddingItemsPage.resources - Embedded, ContainedInManifestFile, 
+  OOP2SemestersProject.AdminOptions.resources - Embedded, ContainedInManifestFile, 
+  OOP2SemestersProject.AvailableItemsPage.resources - Embedded, ContainedInManifestFile, 
+  OOP2SemestersProject.MainPage.resources - Embedded, ContainedInManifestFile, 
+  OOP2SemestersProject.RegisterationPage.resources - Embedded, ContainedInManifestFile, 
+  OOP2SemestersProject.ReturnPage.resources - Embedded, ContainedInManifestFile, 
+  OOP2SemestersProject.SuscribersOptionPage.resources - Embedded, ContainedInManifestFile, 
+  OOP2SemestersProject.SuscribersPage.resources - Embedded, ContainedInManifestFile, 
+  OOP2SemestersProject.UpadateItemPage.resources - Embedded, ContainedInManifestFile, 
+ImageRuntimeVersion: v4.0.30319
+Assembly OOP_2Semesters_Project, Version=0.0.*, Culture=Invariant Language (Invariant Country): 
+	hash=SHA1, flags=PublicKey
+Assembly mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a: 
+	hash=None, flags=None
+Assembly System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Class OOP2SemestersProject.AddingItemsPage: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(System.Windows.Forms.Form): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    System.Windows.Forms.Form adminOptionForm : Public
+Class OOP2SemestersProject.UpadateItemPage: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(System.Windows.Forms.Form): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    System.Windows.Forms.Form AdminOptionsForm : Public
+Class OOP2SemestersProject.AdminOptions: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(System.Windows.Forms.Form): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    System.Windows.Forms.Form mainPageForm : Public
+    System.Data.DataTable overDueItems : Public
+    Int32 indexCounter : Public
+  Methods:
+    borrowedItemduesReport(): PrivateScope, Public, HideBySig
+Class OOP2SemestersProject.AvailableItemsPage: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(System.Windows.Forms.Form): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    System.Windows.Forms.Form SuscriberOptionPage : Public
+  Methods:
+    createnewrow(): PrivateScope, Public, HideBySig
+Class OOP2SemestersProject.RegisterationPage: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(System.Windows.Forms.Form): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    System.Windows.Forms.Form mainPageform : Public
+Class OOP2SemestersProject.ReturnPage: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(System.Windows.Forms.Form): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    System.Windows.Forms.Form SuscriberOptionsPage : Public
+Class OOP2SemestersProject.SuscribersOptionPage: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(System.Windows.Forms.Form): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    System.Windows.Forms.Form SuscriberForm : Public
+Class OOP2SemestersProject.SuscribersPage: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(System.Windows.Forms.Form): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    System.Windows.Forms.Form MainPageForm : Public
+Class OOP2SemestersProject.MainPage: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    Boolean flag : Public
+  Methods:
+    loadDataofLibrary(): PrivateScope, Public, HideBySig
+    loadDataofItems(): PrivateScope, Public, HideBySig
+    loadDataofSuscribers(): PrivateScope, Public, HideBySig
+    loadDataofBorrowing(): PrivateScope, Public, HideBySig
+    saveLibrarydata(): PrivateScope, Public, HideBySig
+    saveItemdata(): PrivateScope, Public, HideBySig
+    SaveDataofSuscribers(): PrivateScope, Public, HideBySig
+    saveBorrowedData(): PrivateScope, Public, HideBySig
