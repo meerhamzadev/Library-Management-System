@@ -1,0 +1,3 @@
+123CS,CS Library
+201MN,Main Library
+EE143,Electrical Library
