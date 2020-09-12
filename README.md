@@ -1,0 +1,1 @@
+It's a GUI based Academic Project created in a team with Maimoon 27 and some other members, using winforms (CLR/CPP .NET Framework)
