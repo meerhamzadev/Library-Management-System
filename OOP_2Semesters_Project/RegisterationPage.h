@@ -485,7 +485,7 @@ private: System::Void button1_Click(System::Object^ sender, System::EventArgs^ e
 }
 private: System::Void button3_Click_1(System::Object^ sender, System::EventArgs^ e) {
 
-	std::string tempStr = "\0";
+	std::string tempStr;
 	tempStr = marshal_as<std::string>(RegSuscriberId->Text);
 
 	for (int i = 0; i < 100; i++)
@@ -505,7 +505,6 @@ private: System::Void button3_Click_1(System::Object^ sender, System::EventArgs^
 		}
 		else if (dataOfgui[i].getSuscriberid() == "\0")
 		{
-			dataOfgui[i].setSuscriberid(marshal_as<std::string>(RegSuscriberId->Text));
 			string tempstr = marshal_as<std::string>(RegSuscriberName->Text);
 			int counter = 0;
 			
@@ -519,9 +518,11 @@ private: System::Void button3_Click_1(System::Object^ sender, System::EventArgs^
 			{
 				MessageBox::Show("Name should only contain Alphabets no special characters or digits allowed"
 					, "Error", MessageBoxButtons::OK, MessageBoxIcon::Error);
+				dataOfgui[i].setSuscribername("\0");
 				break;
 			}
 
+			dataOfgui[i].setSuscriberid(marshal_as<std::string>(RegSuscriberId->Text));
 			dataOfgui[i].setSuscribername(tempstr);
 			dataOfgui[i].setEmail(marshal_as<std::string>(RegisterSuscriberEmail->Text));
 			dataOfgui[i].setPhonenumber(marshal_as<std::string>(RegSuscriberPhoneNumber->Text));
