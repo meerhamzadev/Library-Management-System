@@ -121,10 +121,10 @@
     <ClCompile Include="AddingItemsPage.cpp" />
     <ClCompile Include="AdminOptions.cpp" />
     <ClCompile Include="AvailableItemsPage.cpp" />
-    <ClCompile Include="Classes Content\Classes declarations\Borrowing.cpp" />
-    <ClCompile Include="Classes Content\Classes declarations\Content.cpp" />
-    <ClCompile Include="Classes Content\Classes declarations\Library.cpp" />
-    <ClCompile Include="Classes Content\Classes declarations\Suscribers.cpp" />
+    <ClCompile Include="Classes_Content\ClassesDeclerations\Borrowing.cpp" />
+    <ClCompile Include="Classes_Content\ClassesDeclerations\Content.cpp" />
+    <ClCompile Include="Classes_Content\ClassesDeclerations\Library.cpp" />
+    <ClCompile Include="Classes_Content\ClassesDeclerations\Suscribers.cpp" />
     <ClCompile Include="MainPage.cpp" />
     <ClCompile Include="objDeclerationFile.cpp" />
     <ClCompile Include="RegisterationPage.cpp" />

@@ -1,9 +1,2 @@
-﻿  MainPage.cpp
-D:\codes\c++ files\OOP_2Semesters_Project\OOP_2Semesters_Project\RegisterationPage.h(512,22): warning C4018: '<': signed/unsigned mismatch
-D:\codes\c++ files\OOP_2Semesters_Project\OOP_2Semesters_Project\UpadateItemPage.h(648,22): warning C4018: '<': signed/unsigned mismatch
-D:\codes\c++ files\OOP_2Semesters_Project\OOP_2Semesters_Project\AddingItemsPage.h(606,22): warning C4018: '<': signed/unsigned mismatch
-D:\codes\c++ files\OOP_2Semesters_Project\OOP_2Semesters_Project\SuscribersPage.h(45,28): warning C4244: '=': conversion from 'double' to 'unsigned int', possible loss of data
-D:\codes\c++ files\OOP_2Semesters_Project\OOP_2Semesters_Project\MainPage.h(27,8): warning C4101: 'tempraryConversion': unreferenced local variable
-D:\codes\c++ files\OOP_2Semesters_Project\OOP_2Semesters_Project\MainPage.h(116,8): warning C4101: 'tempraryConversion': unreferenced local variable
-  AddingItemsPage.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
-  OOP_2Semesters_Project.vcxproj -> D:\codes\c++ files\OOP_2Semesters_Project\Debug\OOP_2Semesters_Project.exe
+﻿  AddingItemsPage.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  OOP_2Semesters_Project.vcxproj -> D:\codes\c++ files\Library-Management-System-Project\Debug\OOP_2Semesters_Project.exe

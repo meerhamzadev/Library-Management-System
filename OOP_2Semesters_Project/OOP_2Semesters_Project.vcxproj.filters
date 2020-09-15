@@ -24,18 +24,6 @@
     <ClCompile Include="AddingItemsPage.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Classes Content\Classes declarations\Library.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="Classes Content\Classes declarations\Content.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="Classes Content\Classes declarations\Suscribers.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="Classes Content\Classes declarations\Borrowing.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="UpadateItemPage.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
@@ -58,6 +46,18 @@
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="suscriberIdportableString.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Classes_Content\ClassesDeclerations\Library.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Classes_Content\ClassesDeclerations\Borrowing.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Classes_Content\ClassesDeclerations\Content.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Classes_Content\ClassesDeclerations\Suscribers.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

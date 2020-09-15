@@ -9,3 +9,14 @@ D:\codes\c++ files\OOP_2Semesters_Project\OOP_2Semesters_Project\Debug\OOP2Semes
 D:\codes\c++ files\OOP_2Semesters_Project\OOP_2Semesters_Project\Debug\OOP2SemestersProject.ReturnPage.resources
 D:\codes\c++ files\OOP_2Semesters_Project\OOP_2Semesters_Project\Debug\OOP2SemestersProject.RegisterationPage.resources
 D:\codes\c++ files\OOP_2Semesters_Project\OOP_2Semesters_Project\Debug\OOP2SemestersProject.AvailableItemsPage.resources
+D:\codes\c++ files\Library-Management-System-Project\OOP_2Semesters_Project\Debug\OOP_2Semesters_Project.vcxprojAssemblyReference.cache
+D:\codes\c++ files\Library-Management-System-Project\OOP_2Semesters_Project\Debug\OOP2SemestersProject.AddingItemsPage.resources
+D:\codes\c++ files\Library-Management-System-Project\OOP_2Semesters_Project\Debug\OOP2SemestersProject.AdminOptions.resources
+D:\codes\c++ files\Library-Management-System-Project\OOP_2Semesters_Project\Debug\OOP2SemestersProject.AvailableItemsPage.resources
+D:\codes\c++ files\Library-Management-System-Project\OOP_2Semesters_Project\Debug\OOP2SemestersProject.MainPage.resources
+D:\codes\c++ files\Library-Management-System-Project\OOP_2Semesters_Project\Debug\OOP2SemestersProject.RegisterationPage.resources
+D:\codes\c++ files\Library-Management-System-Project\OOP_2Semesters_Project\Debug\OOP2SemestersProject.ReturnPage.resources
+D:\codes\c++ files\Library-Management-System-Project\OOP_2Semesters_Project\Debug\OOP2SemestersProject.SuscribersOptionPage.resources
+D:\codes\c++ files\Library-Management-System-Project\OOP_2Semesters_Project\Debug\OOP2SemestersProject.SuscribersPage.resources
+D:\codes\c++ files\Library-Management-System-Project\OOP_2Semesters_Project\Debug\OOP2SemestersProject.UpadateItemPage.resources
+D:\codes\c++ files\Library-Management-System-Project\OOP_2Semesters_Project\Debug\OOP_2Semesters_Project.vcxproj.GenerateResource.cache
